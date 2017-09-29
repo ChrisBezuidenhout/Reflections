@@ -1,0 +1,19 @@
+I basically found that once you have something to help you see the differences more easily it gives you a number of benefits.
+1) you get so more accurately and concisely see typos which can cause a crash
+2) you will be able to identify the differences between files allowing you to compare something that just worked to something that is no longer working
+3) this will help if you make small incremental changes and make a mistake
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I could once have written some code that worked but I later decide not to use it and it could come in handy in the future. The same could apply to some problem that you found a work around for, later you change something in the code that no longer requires the work around, later on that same work around could be something you need.
+
+I think that this might also help with you seeing the progress you have made as a developer and how you started off compared to how you code now. It might make you more confident in programming.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+being able to manually choosing commits allows you to keep track of what you have changed and almost how you have changed it. It allows you to easily see for each commit what was changed, fixed, added or deleted. this will help greatly in the future as if there was a mistake or error act you can easily identify where and when you made the change.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+applications such as google docs etc, generally have one file that you are working on at a time or only require one file its a letter or something like that what changes in this file does not effect any other doc you have on google docs. changing a file for a web page does however effect another file as in the example changing a css file that is linked to a html file will effect each other.
+
